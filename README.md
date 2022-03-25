@@ -5,6 +5,6 @@ WHO AM I?
 - I am interested in artificial intelligence and statistics and their applications
 in everyday life.
 
-
-
-![image](https://user-images.githubusercontent.com/80839383/160138534-901b3fcb-e609-431d-8bf5-25035f4efa5d.png) 
+<figure>
+    <img src="python.png" alt="Python"></img>
+</figure>
