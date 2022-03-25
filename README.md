@@ -6,7 +6,7 @@
 
 <style>
 
-#icones{
+.icones{
   margin: auto; 
   margin-bottom:5px; 
   padding:5px width:160px;
