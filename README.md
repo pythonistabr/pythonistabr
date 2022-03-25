@@ -4,7 +4,11 @@
 <h3> I'm an Oceannographer and currently studying data science and technology</h3>
 <h3> I am interested in artificial intelligence, statistics and their applications.</h3>
 
+<style>
+.img{
+  margin: auto}
 
+</style>
 
 <p style="font-size:50px">I have skills in the following technologies:</p>
 
