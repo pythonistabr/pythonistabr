@@ -12,6 +12,6 @@ in everyday life.</h4>
   width: 50%;
 }
 <p style="font-size:20">Programming Languages</p>
-<img class="python" src="python.png" alt="Python" style="width:120px; height:120px"></img>
+<img class="python" src="python.png" alt="Python" style="width:120px; height:120px" align="center"></img>
 <img class="julia" src="julia.png" alt="" style="width:120px; height:120px"></img>
 
