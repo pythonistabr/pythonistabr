@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <h1 style="color:red"> WHO AM I? </h1>
-<h4> I'm an Oceannographer and currently studying data science and technology</h4>
-<h4> I am interested in artificial intelligence and statistics and their applications
-in everyday life.</h4>
+<h3> I'm an Oceannographer and currently studying data science and technology</h3>
+<h3> I am interested in artificial intelligence, statistics and their applications.</h3>
 
 
-<p style="font-size:20">Tecnologies</p>
+
+<p style="font-size:20">Technologies</p>
 
 <img align="left" src="python.png" alt="" style="width:160px; height:160px"></img>
 <img align="left" src="numpy.png" alt="" style="width:160px; height:160px"></img>
