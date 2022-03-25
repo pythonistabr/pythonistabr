@@ -6,7 +6,7 @@
 
 
 <p style="color:black; font-size:50px">I have skills in the following technologies:</p>
-<div>
+<div align="center">
 <img align="left" src="_imgs/python.png" alt="" style="width:160px; height:160px"></img>
 <img align="left" src="_imgs/numpy.png" alt="" style="width:160px; height:160px"></img>
 <img align="left" src="_imgs/pandas.png" alt="" style="width:160px; height:160px"></img>
