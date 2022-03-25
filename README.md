@@ -6,5 +6,5 @@ WHO AM I?
 in everyday life.
 
 <figure>
-    <img src="python.png" alt="Python"></img>
+    <img src="python.png" alt="Python" style="width:600px;height:640px"></img>
 </figure>
