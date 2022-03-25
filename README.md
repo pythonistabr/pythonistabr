@@ -5,4 +5,4 @@ WHO AM I?
 - I am interested in artificial intelligence and statistics and their applications
 in everyday life.
 
-<img src="python.png" alt="Python" style="width:600px; height:640px"></img>
+<img src="python.png" alt="Python" style="width:120px; height:120px"></img>
