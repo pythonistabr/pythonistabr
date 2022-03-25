@@ -5,7 +5,11 @@
 <h4> I am interested in artificial intelligence and statistics and their applications
 in everyday life.</h4>
 
-
+.julia{
+position: absolute;
+right: 300px;
+top: 300px;
+}
 <p style="font-size:20">rogramming Languages</p>
 <img class="python" src="python.png" alt="Python" style="width:120px; height:120px"></img>
 
