@@ -14,7 +14,7 @@
 
 </style>
 
-
+<div>
 
 <p style="font-size:50px">I have skills in the following technologies:</p>
 
@@ -29,3 +29,4 @@
 <img float="auto" src="_imgs/matlab.jpg" alt="" style=""></img>
 
 <img float="auto" src="_imgs/postgres.png" alt="" style=""></img>
+</div>
