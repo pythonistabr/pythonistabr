@@ -4,7 +4,7 @@
 
 <h3> I'm an Physical Oceannographer and currently studying data science and machine learning. </h3>
 
-
+<p>"Intelligence is the ability to adapt to change."(Stephen Hawking)</p>
 
 <p style="color:black; font-size:50px">I have skills in the following technologies:</p>
 
