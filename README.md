@@ -6,7 +6,7 @@
 
 
 
-<p style="font-size:20">Technologies</p>
+<p style="font-size:50px">I have skills in the following technologies:</p>
 
 <img align="left" src="python.png" alt="" style="width:160px; height:160px"></img>
 <img align="left" src="numpy.png" alt="" style="width:160px; height:160px"></img>
