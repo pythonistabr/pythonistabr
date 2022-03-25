@@ -9,8 +9,8 @@
 .icones{
   margin: auto; 
   margin-bottom:5px; 
-  padding:5px width:160px; 
-  height:160px;}
+  padding:5px width:160px;
+  size:200px}
 
 </style>
 
