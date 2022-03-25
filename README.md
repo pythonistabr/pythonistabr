@@ -8,9 +8,9 @@ in everyday life.</h4>
 
 <p style="font-size:20">Tecnologies</p>
 
-<img align="left" src="python.png" alt="" style="width:120px; height:120px"></img>
-<img align="left" src="numpy.png" alt="" style="width:120px; height:120px"></img>
-<img align="left" src="pandas.png" alt="" style="width:120px; height:120px"></img>
-<img align="left" src="julia.png" alt="" style="width:120px; height:120px"></img>
-<img align="left" src="matlab.jpg" alt="" style="width:120px; height:120px"></img>
-<img align="left" src="postgres.png" alt="" style="width:120px; height:120px"></img>
+<img align="left" src="python.png" alt="" style="width:160px; height:160px"></img>
+<img align="left" src="numpy.png" alt="" style="width:160px; height:160px"></img>
+<img align="left" src="pandas.png" alt="" style="width:160px; height:160px"></img>
+<img align="left" src="julia.png" alt="" style="width:160px; height:160px"></img>
+<img align="left" src="matlab.jpg" alt="" style="width:160px; height:160px"></img>
+<img align="left" src="postgres.png" alt="" style="width:160px; height:160px"></img>
