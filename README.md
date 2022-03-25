@@ -18,7 +18,7 @@
 
 <p style="font-size:50px">I have skills in the following technologies:</p>
 
-<img float="auto" class="icones"src="_imgs/python.png" alt="" style=""></img>
+<img float="auto" class="icones" src="_imgs/python.png" alt="" style=""></img>
 
 <img float="auto" src="_imgs/numpy.png" alt="" style=""></img>
 
