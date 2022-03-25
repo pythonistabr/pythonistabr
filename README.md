@@ -8,5 +8,5 @@ in everyday life.</h4>
 
 <p style="font-size:20">Programming Languages</p>
 <img align="right" src="python.png" alt="" style="width:120px; height:120px"></img>
-<img align="center" src="julia.png" alt="" style="width:120px; height:120px"></img>
+<img align="left" src="julia.png" alt="" style="width:120px; height:120px"></img>
 
