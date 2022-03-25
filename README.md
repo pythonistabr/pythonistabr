@@ -7,12 +7,7 @@
 <style>
 
   icones {
-  aling: left;
-  margin: auto; 
-  margin-bottom:5px; 
-  padding:5px;
-  width:160px;
-  size:200px
+
   }
 
 </style>
@@ -21,7 +16,16 @@
 
 <p style="font-size:50px">I have skills in the following technologies:</p>
 
-<div class="icones"> <img float="auto" src="_imgs/python.png" alt=""/></div>
+<div style="aling: left;
+  margin: auto; 
+  margin-bottom:5px; 
+  padding:5px;
+  width:160px;
+  size:200px"> 
+  
+  <img float="auto" src="_imgs/python.png" alt=""/>
+  
+  </div>
 
 <img float="auto" src="_imgs/numpy.png" alt="" style=""></img>
 
