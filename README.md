@@ -8,14 +8,14 @@
 
 <p style="font-size:50px">I have skills in the following technologies:</p>
 
-<img align="left" src="_imgs/python.png" alt="" style="width:160px; height:160px; margin-top:10px; margin-right:10px"></img>
+<img align="left" src="_imgs/python.png" alt="" style="width:160px; height:160px; margin:10p 10px 10px 10px"></img>
 
-<img align="left" src="_imgs/numpy.png" alt="" style="width:160px; height:160px; margin-top:10px; margin-right:10px"></img>
+<img align="left" src="_imgs/numpy.png" alt="" style="width:160px; height:160px; margin:10p 10px 10px 10px"></img>
 
-<img align="left" src="_imgs/pandas.png" alt="" style="width:160px; height:160px; margin-top:10px; margin-right:10px"></img>
+<img align="left" src="_imgs/pandas.png" alt="" style="width:160px; height:160px; margin:10p 10px 10px 10px"></img>
 
-<img align="left" src="_imgs/julia.png" alt="" style="width:160px; height:160px; margin-top:10px; margin-right:10px"></img>
+<img align="left" src="_imgs/julia.png" alt="" style="width:160px; height:160px; margin:10p 10px 10px 10px"></img>
 
-<img align="left" src="_imgs/matlab.jpg" alt="" style="width:160px; height:160px; margin-top:10px; margin-right:10px"></img>
+<img align="left" src="_imgs/matlab.jpg" alt="" style="width:160px; height:160px; margin:10p 10px 10px 10px"></img>
 
-<img align="left" src="_imgs/postgres.png" alt="" style="width:160px; height:160px; margin-top:10px; margin-right:10px "></img>
+<img align="left" src="_imgs/postgres.png" alt="" style="width:160px; height:160px; margin:10p 10px 10px 10px "></img>
