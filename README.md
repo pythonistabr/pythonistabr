@@ -6,7 +6,7 @@
 in everyday life.</h4>
 
 
-<p style="font-size:20">Programming Languages</p>
+<p style="font-size:20">Programming Languages and Libs</p>
 
 <img align="left" src="python.png" alt="" style="width:120px; height:120px"></img>
 <img align="left" src="julia.png" alt="" style="width:120px; height:120px"></img>
