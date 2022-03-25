@@ -1,12 +1,10 @@
 ### Hi there 👋
 
+WHO AM I?
+- 🔭 I'm an Oceannographer and currently studying data science and technology
+- I am interested in artificial intelligence and statistics and their applications
+in everyday life.
 
-**pythonistabr/pythonistabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Msc in Tropical Marine Sciences
-- 🌱 I’m currently studing Machine Learning and Power BI
-
-![image](https://user-images.githubusercontent.com/80839383/160138123-e3d4f23c-ffac-4045-8196-85358e6eae81.png)
-
+![image](https://user-images.githubusercontent.com/80839383/160138534-901b3fcb-e609-431d-8bf5-25035f4efa5d.png) 
