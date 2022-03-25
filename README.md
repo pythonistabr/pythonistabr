@@ -6,7 +6,7 @@
 
 <style>
 
-.icones{
+  icones{
   aling: left;
   margin: auto; 
   margin-bottom:5px; 
