@@ -7,13 +7,13 @@
 
 <p style="font-size:50px">I have skills in the following technologies:</p>
 
-<img align="left" src="_imgs/python.png" alt="" style=" margin: auto; width:160px; height:160px; padding: 10px "></img>
+<img align="left" src="_imgs/python.png" alt="" style=" margin: auto; margin-top:200px; width:160px; height:160px; padding: 10px "></img>
 
-<img align="left" src="_imgs/numpy.png" alt="" style=" margin: auto;width:160px; height:160px; padding: 10px "></img>
+<img align="left" src="_imgs/numpy.png" alt="" style=" margin: auto; width:160px; height:160px; padding: 10px "></img>
 
-<img align="left" src="_imgs/pandas.png" alt="" style="margin: auto;width:160px; height:160px; padding: 10px "></img>
+<img align="left" src="_imgs/pandas.png" alt="" style="margin: auto; width:160px; height:160px; padding: 10px "></img>
 
-<img align="left" src="_imgs/julia.png" alt="" style="margin: auto;width:160px; height:160px; padding: 10px "></img>
+<img align="left" src="_imgs/julia.png" alt="" style="margin: auto; width:160px; height:160px; padding: 10px "></img>
 
 <img align="left" src="_imgs/matlab.jpg" alt="" style="margin: auto; width:160px; height:160px; padding: 10px "></img>
 
