@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <h1 style="color:red"> WHO AM I? </h1>
-<h3> I'm an Oceannographer and currently studying data science and technology</h3>
-<h3> I am interested in artificial intelligence, statistics and their applications.</h3>
+<h3 I'm an Physical Oceannographer and currently studying data science and machine learnings.</h3>
 
 
 
