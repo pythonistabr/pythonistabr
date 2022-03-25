@@ -14,6 +14,6 @@
 <img align="left" src="_imgs/matlab.jpg" alt="" style="width:160px; height:160px"></img>
 <img align="left" src="_imgs/postgres.png" alt="" style="margin:5px 5px; width:160px; height:160px"></img>
 </div>
-<div align="bottom">
+<footer align="bottom">
 <p align="bottom">"Intelligence is the ability to adapt to change."(Stephen Hawking)</p>
-</div>
+</footer>
