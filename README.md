@@ -27,13 +27,13 @@
   
   </div>
 
-<img float="auto" src="_imgs/numpy.png" alt="" style=""></img>
+<img src="_imgs/numpy.png" alt="" style=""></img>
 
-<img float="auto" src="_imgs/pandas.png" alt="" style=""></img>
+<img src="_imgs/pandas.png" alt="" style=""></img>
 
-<img float="auto" src="_imgs/julia.png" alt="" style=""></img>
+<img src="_imgs/julia.png" alt="" style=""></img>
 
-<img float="auto" src="_imgs/matlab.jpg" alt="" style=""></img>
+<img src="_imgs/matlab.jpg" alt="" style=""></img>
 
-<img float="auto" src="_imgs/postgres.png" alt="" style=""></img>
+<img src="_imgs/postgres.png" alt="" style=""></img>
 </div>
