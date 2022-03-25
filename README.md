@@ -6,7 +6,11 @@
 
 <style>
 
-
+.icones{
+  margin: auto; 
+  margin-bottom:5px; 
+  padding:5px width:160px; 
+  height:160px;}
 
 </style>
 
@@ -14,7 +18,7 @@
 
 <p style="font-size:50px">I have skills in the following technologies:</p>
 
-<img float="auto" src="_imgs/python.png" alt="" style=""></img>
+<img float="auto" class="icones"src="_imgs/python.png" alt="" style=""></img>
 
 <img float="auto" src="_imgs/numpy.png" alt="" style=""></img>
 
