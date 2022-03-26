@@ -7,9 +7,9 @@
 </head>
 <div>
 <ul>
-  <li>Python</li><li>NumPy</li> <li>Pandas</li>
+  <li>Python</li> <li>NumPy</li> <li>Pandas</li>
   
-  li>PostgreSQL</li><li>Julia</li><li>Matlab</li>
+  <li>PostgreSQL</li><li>Julia</li><li>Matlab</li>
   
 </ul>
 </div>
