@@ -6,7 +6,7 @@
 <h3> I'm an Physical Oceannographer and currently studying data science and machine learning. </h3>
 </head>
 
-<p style="color:black; font-size:50px">I have skills in the following technologies:</p>
+<p style="color:black; font-size:50px">I have skills with these languages and technologies::</p>
 <div align="center">
 <img align="left" src="_imgs/python.png" alt="" style="width:80px; height:80px"></img>
 <img align="left" src="_imgs/numpy.png" alt="" style="width:80px; height:80px"></img>
