@@ -11,7 +11,7 @@
 <img align="left" src="_imgs/python.png" alt="" style="width:80px; height:80px"></img>
 <img align="left" src="_imgs/numpy.png" alt="" style="width:120px; height:120px"></img>
 <img align="left" src="_imgs/pandas.png" alt="" style="width:120px; height:120px"></img>
-<img align="left" src="_imgs/julia.png" alt="" style="width:120px; height:120px; border: 5px solid white"></img>
+<img align="left" src="_imgs/julia.png" alt="" style="width:120px; height:120px" border="5px solid white"></img>
 <img align="left" src="_imgs/matlab.png" alt="" style="width:120px; height:120px"></img>
 <img align="left" src="_imgs/postgres.png" alt="" style="margin:5px 5px; width:80px; height:80px"></img>
 </div>
