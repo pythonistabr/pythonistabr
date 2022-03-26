@@ -6,7 +6,7 @@
 <h3> I'm an Physical Oceannographer and currently studying data science and machine learning. </h3>
 </head>
 <ul>
-  <i>Python</i>
+  <li>Python</li>
   <i>NumPy</i>
   <i>Pandas</i>
   <i>PostgreSQL</i>
