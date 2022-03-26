@@ -13,6 +13,6 @@
 <img align="left" src="_imgs/pandas.png" alt="" style="width:80px; height:80px"></img>
 <img align="left" src="_imgs/julia.png" alt="" style="width:80px; height:80px"></img>
 <img align="left" src="_imgs/matlab.jpg" alt="" style="width:80px; height:80px"></img>
-<img align="left" src="_imgs/postgres.png" alt="" style="margin:5px 5px; width:160px; height:160px"></img>
+<img align="left" src="_imgs/postgres.png" alt="" style="margin:5px 5px; width:80px; height:80px"></img>
 </div>
 
